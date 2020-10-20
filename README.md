@@ -1,6 +1,4 @@
-# Responsive Navbar
-
-# JSMinna Internship
+# JSMinna Internship - Responsive Navbar
 
 Your task is to build a responsive navbar without any framework. Take cues from https://flutterwave.com/ng/ or https://ouredenlife.com/
 
